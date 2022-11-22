@@ -1,0 +1,11 @@
+Model Information:
+* title:	Statue photogrammetry 3D reconstruction
+* source:	https://sketchfab.com/3d-models/statue-photogrammetry-3d-reconstruction-a81e887d097949a8ad6b4f02ebe4a44c
+* author:	GSXNet (https://sketchfab.com/gsxn)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Statue photogrammetry 3D reconstruction" (https://sketchfab.com/3d-models/statue-photogrammetry-3d-reconstruction-a81e887d097949a8ad6b4f02ebe4a44c) by GSXNet (https://sketchfab.com/gsxn) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
